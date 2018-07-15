@@ -1,4 +1,4 @@
-# Uhack2018
+# Uhack2018 - Tasmania - Team DepNet
 This project is to use multi-layer neural networks to predict housing price. Due to the time limitaion, deeper model of deep learning is not implemented, such as Triplet Network, GoogLeNet.
 
 ## Dataset
