@@ -12,3 +12,6 @@ Since quite a few features in the dataset are categorical values, one hot encodi
 This model is implemented in Jupyter Notebook, with library of keras and pandas mainly. Due to the limitation of time, we didn't design complex modelling such as triplet network, Googlet. We implement multiple layers with Relu activation function.
 
 Since the output is numeric numbers, we implement regression with mean squared error as metrics rather than traditional binary approach with accuracy as metrics.
+
+## Website
+Website is designed by Shengmao Li with HTML and Javascript as the platform to display the predited result to customers.
